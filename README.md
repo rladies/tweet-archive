@@ -29,9 +29,9 @@ I got those from [this tool by Darius Kazemi](https://tinysubversions.com/twitte
 
 All of my information is hardcoded into the files. You'll need to edit `index.html`, `build.py`, and `app.js`. To replace it with your information, search the code for:
 
-* `julia`
-* `Julia`
-* `b0rk`
+* `We are R-Ladies`
+* `We are R-Ladies`
+* `WeAreRLadies`
 * `profile.jpg`
 
 and replace it with your information instead.
