@@ -1,0 +1,9 @@
+---
+title: R-Ladies Global's Twitter archives
+---
+
+R-Ladies managed two twitter accounts.
+Both these accounts have been closed since 2022, and the entire archives were created in 2024, before the accounts were deleted.
+
+- [R-Ladies Global](rladiesglobal/)
+- [We are R-Ladies](wearerladies/)
